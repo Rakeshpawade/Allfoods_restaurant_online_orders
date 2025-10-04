@@ -1,0 +1,1 @@
+Allfoods is a fictional multicuisine restaurant in Mumbai that has recently started its online food delivery service. The following data set contains information about the first 50 orders that it received just after opening its delivery service. Analyse the data set using Excel and answer the questions that follow.
